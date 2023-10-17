@@ -5,11 +5,7 @@ This repository contains code for predicting software defects using machine lear
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
   - [Dataset](#dataset)
-  - [Synthetically-Generated Datasets](#synthetically-generated-datasets)
 - [Data Preparation](#data-preparation)
 - [Data Exploration](#data-exploration)
 - [Feature Selection](#feature-selection)
@@ -17,9 +13,6 @@ This repository contains code for predicting software defects using machine lear
 - [Hyperparameter Tuning](#hyperparameter-tuning)
 - [Model Stacking](#model-stacking)
 - [Results](#results)
-- [Conclusion](#conclusion)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
